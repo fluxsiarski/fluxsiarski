@@ -139,7 +139,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px"/>
 
-*&ldquo; Every expert was once a beginner — but not every beginner ships a 14-state FSM. &rdquo;*
+*&ldquo; Every expert was once a beginner  &rdquo;*
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px"/>
 
