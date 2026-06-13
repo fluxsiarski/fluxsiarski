@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=280&section=header&text=Wiktor%20Zieli%C5%84ski&fontSize=68&fontColor=D97706&animation=twinkling&fontAlignY=42&desc=FPGA%20%C2%B7%20Web%20%C2%B7%20Mobile%20Developer&descSize=20&descFontColor=F59E0B&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=260&section=header&text=Wiktor%20Zieli%C5%84ski&fontSize=68&fontColor=D97706&animation=twinkling&fontAlignY=42&desc=FPGA%20%C2%B7%20Web%20%C2%B7%20Mobile%20Developer&descSize=20&descFontColor=F59E0B&descAlignY=63" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=D97706&center=true&vCenter=true&width=700&lines=Student+%C2%B7+Akademia+Wojsk+L%C4%85dowych+we+Wroc%C5%82awiu;Building+FPGA+weather+stations+with+Verilog;Learning+React+Native+%C2%B7+TypeScript+%C2%B7+C%23;Driven+by+curiosity+%E2%80%94+powered+by+coffee+%E2%98%95" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=D97706&center=true&vCenter=true&width=700&lines=Student+%C2%B7+Military+University+of+Land+Forces%2C+Wroc%C5%82aw;Building+FPGA+weather+stations+with+Verilog;Exploring+React+Native+%C2%B7+TypeScript+%C2%B7+C%23;Driven+by+curiosity+%E2%80%94+powered+by+coffee+%E2%98%95" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Anthropic-style warm gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+<!-- Claude / Anthropic mascot - animated orange character -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
@@ -15,20 +15,26 @@
 
 ## 🟠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=860&lines=Student+w+Akademii+Wojsk+L%C4%85dowych+%C2%B7+Wroc%C5%82aw;Buduj%C4%99+projekty+FPGA+%E2%80%94+Verilog+%2B+Zybo+Z7-20;React+Native+%C2%B7+TypeScript+%C2%B7+Expo+enthusiast;Zawsze+ucz%C4%99+si%C4%99+czego%C5%9B+nowego" alt="Typing SVG" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  🎓  Student — Akademia Wojsk Lądowych, Wrocław          ║
-║  📍  Wrocław, Polska                                      ║
-║  💡  Interesuję się: FPGA, mobile dev, web, C#            ║
-║  🔭  Aktualny projekt: Weather Matrix na Zybo Z7-20       ║
-║  🌱  Uczę się: Verilog, TypeScript, React Native          ║
-║  ⚡  Fun fact: Napisałem kontroler I²C w 14 stanach FSM   ║
-╚══════════════════════════════════════════════════════════╝
+ ╭────────────────────────────────────────────────────╮
+ |                                                    |
+ |   🎓  Student @ Military University, Wrocław         |
+ |   📍  Wrocław, Poland                                 |
+ |   💻  Interests: FPGA · Mobile · Web · C#            |
+ |   🔭  Current: Weather Matrix on Zybo Z7-20           |
+ |   🌱  Learning: Verilog · TypeScript · React Native  |
+ |   ⚡  Fun fact: Built I²C controller as 14-state FSM  |
+ |                                                    |
+ ╰────────────────────────────────────────────────────╯
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,29 +43,27 @@
 <p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-fluxsiarski-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fluxsiarski)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wiktor.zielinski)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiktor-zielinski)
-[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiktor@example.com)
+[![Instagram](https://img.shields.io/badge/@fluxsiarski-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fluxsiarski/)
+[![YouTube](https://img.shields.io/badge/@fluxsiarski-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fluxsiarski)
 
 </p>
-
-> ⚠️ *Uzupełnij linki do swoich social media powyżej jeśli się różnią.*
 
 ---
 
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,cs,verilog,git,github,expo,vscode,figma&perline=6&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,cs,git,github,expo,vscode,figma&perline=6&theme=dark"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-D97706?style=flat-square&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-F59E0B?style=flat-square&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zybo_Z7--20-FBBF24?style=flat-square&logo=digilent&logoColor=black"/>
-  <img src="https://img.shields.io/badge/I%C2%B2C%20%2F%20SPI-D97706?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado_2025.2-F59E0B?style=flat-square&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zybo_Z7--20-FBBF24?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/I%C2%B2C_%2F_SPI-D97706?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 
 ---
@@ -77,14 +81,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fluxsiarski&theme=transparent&hide_border=true&background=0d0d0d&ring=D97706&fire=F59E0B&currStreakLabel=FBBF24&sideLabels=FDE68A&dates=FDE68A&sideNums=F59E0B&currStreakNum=D97706" width="55%"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fluxsiarski&theme=dark_lover&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
 ---
@@ -111,8 +107,8 @@
   <a href="https://github.com/fluxsiarski/airbnb-react-native-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fluxsiarski&repo=airbnb-react-native-clone&theme=transparent&hide_border=true&bg_color=0d0d0d&title_color=D97706&text_color=FDE68A&icon_color=F59E0B"/>
   </a>
-  <a href="https://github.com/fluxsiarski/To-Do-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fluxsiarski&repo=To-Do-App&theme=transparent&hide_border=true&bg_color=0d0d0d&title_color=D97706&text_color=FDE68A&icon_color=F59E0B"/>
+  <a href="https://github.com/fluxsiarski/YOUR-FINTECH-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fluxsiarski&repo=YOUR-FINTECH-REPO&theme=transparent&hide_border=true&bg_color=0d0d0d&title_color=D97706&text_color=FDE68A&icon_color=F59E0B"/>
   </a>
 </p>
 
@@ -120,7 +116,7 @@
 
 <div align="center">
 
-*「 Każdy ekspert był kiedyś początkującym 」*
+*&ldquo; Every expert was once a beginner &rdquo;*
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=130&section=footer" width="100%"/>
 
